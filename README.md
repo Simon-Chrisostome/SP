@@ -1,8 +1,8 @@
 # SP
 Software Praktikum SoSe 2023
 ### CEO
->Sophia Velo
-Irem (unkown)
+>Sophia Velo<br>
+Irem (unkown)<br>
 Simon Chrisostome
 
 

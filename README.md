@@ -1,5 +1,5 @@
-# SP
-Software Praktikum SoSe 2023
+# Software Praktikum
+Studierende bringen neuen Schwung in die Fachschaft
 ### CEO
 >Sophia Velo<br>
 Irem (unkown)<br>

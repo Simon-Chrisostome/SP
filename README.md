@@ -5,4 +5,5 @@ Studierende bringen neuen Schwung in die Fachschaft
 Irem (unkown)<br>
 Simon Chrisostome
 
+Heute treffen wir uns!
 
